@@ -1,1 +1,1 @@
-# exercicio_sass
+# Exercício SASS/CSS convertion - Fullstack Java Course - EBAC
